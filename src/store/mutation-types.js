@@ -1,0 +1,7 @@
+export const AUTH_LOGIN = 'AUTH_LOGIN'
+export const AUTH_LOGOUT = 'AUTH_LOGOUT'
+export const AUTH_SIGNUP = 'AUTH_SIGNUP'
+export const SET_CURRENT_USER = 'SET_CURRENT_USER'
+export const SET_TWO_STEP_AUTH = 'SET_TWO_STEP_AUTH'
+export const UPDATE_CURRENT_BOOK = 'updateCurrentBook'
+export const UPDATE_BOOK = 'updateBook'
